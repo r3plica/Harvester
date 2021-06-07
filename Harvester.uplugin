@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"SemVersion": "1.0.0",
+	"VersionName": "1.0",
+	"FriendlyName": "Harvester",
+	"Description": "A combine harvester mod",
+	"Category": "Modding",
+	"CreatedBy": "r3plica",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
